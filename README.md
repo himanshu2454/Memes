@@ -4,6 +4,6 @@
 Project is still under development phase .
 Major contributors of the Project will be -</p>
 
-# Himanshu chouhan
-# shubham rajput 
-# Naman yadav.
+#### Himanshu chouhan
+#### shubham rajput 
+#### Naman yadav.
