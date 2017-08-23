@@ -19,10 +19,11 @@
   color:white;
 }
 .Meme {
- width:100%;
+ width:75%;
   height:550px;
 }
 .Meme img{
+  align:center;
   width:auto;
   height:auto;
 }
