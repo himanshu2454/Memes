@@ -18,13 +18,9 @@
   background-color: #4caf50;
   color:white;
 }
-.Meme {
- width:100%;
-  height:auto;
-}
 .Meme img{
 
   width:100%
-  height:600px;
+  height:75%;
 }
 
