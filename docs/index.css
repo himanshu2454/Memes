@@ -18,13 +18,10 @@
   background-color: #4caf50;
   color:white;
 }
-.Meme {
-  display:inline-block;
-  overflow:hidden;
-}
+
 .Meme img{
  float:right;
   width:500px;
-  height:400px;
+  height:500px;
 }
 
